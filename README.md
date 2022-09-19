@@ -25,5 +25,4 @@ Este projeto foi feito durante o módulo de Front-end do curso da Trybe e portan
     * `npm install`
 
 3. Inicialize o projeto
-  * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+   * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
