@@ -1,7 +1,7 @@
 import React from 'react';
-import Title from './Title';
-import planets from '../data/planets';
-import PlanetCard from './PlanetCard';
+import planets from '../../data/planets';
+import PlanetCard from '../PlanetCard/PlanetCard';
+import './SolarSystem.css';
 
 class SolarSystem extends React.Component {
   render() {
@@ -11,10 +11,11 @@ class SolarSystem extends React.Component {
       key={ planet.name }
     />));
     return (
-      <div data-testid="solar-system">
-        <Title headline="Planetas" />
-        {cards}
-      </div>
+      <section data-testid="solar-system">
+        <div className="planets-container">
+          {cards}
+        </div>
+      </section>
     );
   }
 }
