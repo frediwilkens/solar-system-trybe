@@ -1,11 +1,18 @@
 ## Descrição:
 Uma página web onde é possível ver os planetas do sistema solar e dados sobre missões espaciais
 
-ps: Este projeto foi feito durante o módulo de Front-end do curso da Trybe e portanto não trata-se de uma ideia de minha autoria. Assim como a ideia, as imagens dos planetas e os dados das missões foram fornecidos pela Trybe.
+#### OBS:
+Este projeto foi feito durante o módulo de Front-end do curso da Trybe e portanto não trata-se de uma ideia de minha autoria. Assim como a ideia, as imagens dos planetas e os dados das missões foram fornecidos pela Trybe.
 
 ## Tecnologias utilizadas:
 - React
 - CSS
+
+## Habilidades Desenvolvidas:
+- Criar componentes de classe em React e utilizar o método render() corretamente
+- Renderizar múltiplos componentes a partir de um array
+- Validar props de um componente através do PropTypes
+- Estilizar componentes com CSS
 
 ## Como rodar:
 1. Clone o repositório
