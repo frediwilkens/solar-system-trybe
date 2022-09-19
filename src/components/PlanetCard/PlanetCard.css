@@ -1,0 +1,9 @@
+.planet-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.planet-name {
+  font-size: 20px;
+}

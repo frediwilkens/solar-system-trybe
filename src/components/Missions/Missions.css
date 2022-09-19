@@ -1,0 +1,11 @@
+.missions-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.missions-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90vw;
+}
